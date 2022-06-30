@@ -16,3 +16,6 @@
 # e.g: if you have a <div id='number'></div> in you HTML.
 # Pass python variable or code --> pyscript.write('number', python_variable)
 
+# For an example of using maplotlib and rendering see the index.html and the pythong folder in
+# https://github.com/Steph-diaz/pyscript-test
+
